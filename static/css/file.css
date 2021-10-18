@@ -1,0 +1,14 @@
+.table{
+    width: 47%;
+}
+.bt{
+    float: right;margin: 12px;
+}
+.fhr{
+    width: 100%;
+}
+.fileDirIcon{
+    width: 40px;
+    height: 40px;
+    padding: 2px;
+}
