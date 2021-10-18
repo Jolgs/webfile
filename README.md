@@ -13,13 +13,13 @@ Golang ：
 
 1. Windows
 
-   下载文件 [WebFile.exe]()，双击即可打开
+   下载文件 [WebFile.exe](https://github.com/Jolgs/webfile/releases/download/untagged-8e16366afd2c68928fdb/WebFile_windows.zip)，双击即可打开
 
    浏览器访问 http://IP 即可
 
 2. Linux
 
-   下载文件 [WebFile.exe]()， 
+   下载文件 [WebFile](https://github.com/Jolgs/webfile/releases/download/untagged-8e16366afd2c68928fdb/Webfile_linux.zip)， 
 
    执行命令 nohup ./WebFile &
 
