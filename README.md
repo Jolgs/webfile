@@ -29,7 +29,7 @@ Golang ：
 
 #### 使用说明
 
-![image-20211018155703794](D:\Go\src\webfile\image-20211018155703794.png)
+![image-20211018155703794](https://github.com/Jolgs/webfile/blob/main/image-20211018155703794.png)
 
 #### 参与贡献
 
